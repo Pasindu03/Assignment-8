@@ -14,4 +14,4 @@ setInterval(() => {
     items.eq(4).html(four);
     items.eq(5).html(five);
 
-}, 100);
+}, 1000);
